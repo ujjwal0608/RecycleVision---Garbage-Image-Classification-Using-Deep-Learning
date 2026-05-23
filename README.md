@@ -43,5 +43,26 @@ An AI-powered Garbage Waste Classification Web Application built using PyTorch, 
 ## Home Page
 <img width="100%" alt="App Screenshot" src="'/Users/ujjwalraj/Desktop/Garbage_Classifier_Model/Screenshot 2026-05-23 at 2.12.46 PM.png'">
 
+# 📂 Project Structure
+
+```bash
+Garbage-Classifier/
+│
+├── app.py
+├── model.py
+├── class_names.py
+├── best_model.pth
+├── requirements.txt
+├── README.md
+└── sample_images/
+```
+
+# 👨‍💻 Author
+Developed using Deep Learning and Computer Vision with PyTorch and Streamlit.
+
+# ⭐ If you like this project
+Please give this repository a star ⭐ on GitHub.
+
+
 
 
