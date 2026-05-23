@@ -10,3 +10,38 @@ An AI-powered Garbage Waste Classification Web Application built using PyTorch, 
 ✅ Confidence Score Display  
 ✅ Environmental Awareness Recommendations  
 ✅ Clean and Responsive User Interface  
+
+# 🧠 Classes Supported
+
+- Cardboard
+- Glass
+- Metal
+- Paper
+- Plastic
+- Trash
+
+ # 📊 Model Performance
+
+| Metric | Score |
+|---|---|
+| Train Accuracy | 99.77% |
+| Validation Accuracy | 92.14% |
+| Test Accuracy | 91.84% |
+| Precision | 91.93% |
+| Recall | 91.84% |
+| F1 Score | 91.73% |
+
+# 🛠️ Technologies Used
+- Python
+- PyTorch
+- Torchvision
+- Streamlit
+- PIL
+- ResNet50 (Transfer Learning)
+
+# 🖥️ Application Screenshot
+## Home Page
+<img width="100%" alt="App Screenshot" src="'/Users/ujjwalraj/Desktop/Garbage_Classifier_Model/Screenshot 2026-05-23 at 2.12.46 PM.png'">
+
+
+
